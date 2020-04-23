@@ -1,5 +1,0 @@
-{
-  "install": "mvn clean install",
-  "run": "./mvnw spring-boot:run",
-  "port": 8080
-}
